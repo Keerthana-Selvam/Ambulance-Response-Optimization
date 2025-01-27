@@ -8,9 +8,6 @@ This repository contains my MSc dissertation on optimizing ambulance response ti
 
 ## Contents
 - `Dissertation.pdf`: Full dissertation document.
-- `Data/`: Datasets used for analysis (cleaned and anonymized).
-- `Models/`: Machine learning models and scripts.
-- `Figures/`: Visualizations and plots from the dissertation.
 
 ## Contact
-Feel free to reach out for collaborations: [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out for collaborations: [keerthanaselvam0229@gmail.com](mailto:keerthanaselvam0229@gmail.com).
