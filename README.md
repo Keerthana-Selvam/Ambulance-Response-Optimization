@@ -41,6 +41,7 @@ This research leverages data-driven techniques to improve ambulance response tim
 
 ## Contents
 - `Dissertation.pdf`: Full dissertation document detailing methodologies, results, and recommendations.
+- `Figures/`: Visualizations and plots illustrating key findings.
 - `References/`: Bibliography and additional resources.
 
 ## Recommendations for Improvement
