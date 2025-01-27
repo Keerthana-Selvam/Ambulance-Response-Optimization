@@ -1,7 +1,6 @@
 # Ambulance-Response-Optimization
 Dissertation on optimizing ambulance response times using machine learning and geospatial analysis
 
-markdown
 
 # Optimizing Ambulance Response Times
 This repository contains my MSc dissertation on optimizing ambulance response times for the Welsh Ambulance Service Trust (WAST) using machine learning and geospatial analysis.
