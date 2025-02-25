@@ -78,7 +78,7 @@ The dissertation identifies innovative solutions to push EMS optimization furthe
 ---
 
 ## Contents
-- `Dissertation.pdf`: Full dissertation document detailing methodologies, results, and recommendations.
+- `Optimizing Ambulance Response Project.pdf`: Full dissertation document detailing methodologies, results, and recommendations.
 - `Figures/`: Visualizations and plots illustrating key findings.
 - `References/`: Bibliography and additional resources.
 
