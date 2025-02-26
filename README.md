@@ -1,5 +1,5 @@
 # Optimizing Ambulance Response Times
-This repository contains my MSc dissertation on **Optimizing Ambulance Response Times** for the Welsh Ambulance Service Trust (WAST). The project leverages advanced machine learning techniques, geospatial analysis, and time-series forecasting to identify bottlenecks in emergency medical services and proposes actionable strategies to improve operational efficiency and patient outcomes.
+This repository is about **Optimizing Ambulance Response Times** for the Welsh Ambulance Service Trust (WAST). The project leverages advanced machine learning techniques, geospatial analysis, and time-series forecasting to identify bottlenecks in emergency medical services and proposes actionable strategies to improve operational efficiency and patient outcomes.
 
 ---
 
